@@ -1,2 +1,6 @@
 # DBI_Final-project
-A database for article storages
+Source code for article storage database.
+Functionality:
+- Trigger.
+- Procedure.
+- Function 
